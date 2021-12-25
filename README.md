@@ -1,1 +1,1 @@
-Run command  gcc xmas.c -o xmas
+Run command  ```gcc xmas.c -o xmas``` and ```./xmas```
